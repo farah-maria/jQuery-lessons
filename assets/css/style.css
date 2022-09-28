@@ -13,7 +13,11 @@ body {
     border-bottom: 4px #000 solid;
     margin-bottom: 10px;
   }
-  
+
+p {
+    font-size: small;
+    font-weight: 100;
+}
   #container {
     width: 90%;
     margin: auto;

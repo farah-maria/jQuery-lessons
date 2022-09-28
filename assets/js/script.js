@@ -1,1 +1,1 @@
-$("h1").hide();
+$("h2#heading1").hide();
